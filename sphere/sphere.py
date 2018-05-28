@@ -1,3 +1,7 @@
+# Commentaires vide de lolo
+#
+# Et rien autre
+
 import math, pickle
 
 class Sphere(object):
